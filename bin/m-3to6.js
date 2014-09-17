@@ -31,4 +31,5 @@ if (pkg && pkg.directories && pkg.directories.css) {
 }
 
 fs.writeFileSync(cortexjson, JSON.stringify(data, null, 2), 'utf8');
+
 console.log('done');
