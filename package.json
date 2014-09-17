@@ -6,6 +6,7 @@
     "cortex-migrate": "./bin/m-3to6.js"
   }, 
   "main": "index.js",
+  "repository": "git@github.com:cortexjs/cortex-migrate-tool.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
