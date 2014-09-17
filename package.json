@@ -1,0 +1,16 @@
+{
+  "name": "cortex-migrate",
+  "version": "0.1.0",
+  "description": "",
+  "bin": {
+    "cortex-migrate": "./bin/m-3to6.js"
+  }, 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
